@@ -16,4 +16,11 @@
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="17dp" />
 
+    <Spinner
+        android:id="@+id/Spinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/WebView"
+        android:layout_centerHorizontal="true" />
+
 </RelativeLayout>
